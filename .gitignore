@@ -1,6 +1,8 @@
 # Fichiers sensibles
 .env
 *.env
+.env.txt
+*.env.txt
 
 # Index vectoriels
 faiss_index/
